@@ -33,6 +33,7 @@ require 'index.php';
                             echo ("<textarea placeholder='".$placeholder[$i]."' name='".$value."'></textarea>");
                             $i = $i+1;
                         }
+                        
                         else {
                             echo ("<input type='text' placeholder='".$placeholder[$i]."' name='".$value."'>");
                             $i = $i+1;

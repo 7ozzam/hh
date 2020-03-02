@@ -1,70 +1,149 @@
-{ 
-   "mandatory":{ 
-      "siteName":"NetApps ikd",
-      "siteUrl":"netapps-ikd.miportal.io",
-      "hero_header_title":"title",
-      "hero_header_subtitle":"subtitle",
-      "template":{ 
-         "templateName":"Compact",
-         "colourName":"Midnight"
+{
+    "mandatory": {
+      "siteName": "NetApps ik",
+      "siteUrl": "netapps-ik.miportal.io",
+      "hero_header_title": "title",
+      "hero_header_subtitle": "subtitle",
+      "template": {
+        "templateName": "Compact",
+        "colourName": "Midnight"
       },
-      "name":"about name",
-      "aboutYouPhoto":{ 
-         "imgURLimport":"/assets/images/users/541418/aboutYouPhoto.png",
-         "imgURL":"",
-         "imgURLElementor":"",
-         "imgID":""
+      "name": "about name",
+      "aboutYouPhoto": {
+        "imgURLimport": "http://res.cloudinary.com/vovolio/image/upload/v1581242936/photos/541418/aboutYouPhoto.png",
+        "imgURL": "",
+        "imgURLElementor": "",
+        "imgID": ""
       },
-      "aboutYou":"sdsdsdsdsd",
-      "heroPhoto":{ 
-         "imgURLimport":null,
-         "imgURL":"",
-         "imgURLElementor":"",
-         "imgID":""
+      "aboutYou": "sdsdsdsdsd",
+      "heroPhoto": {
+        "imgURLimport": "http://res.cloudinary.com/vovolio/image/upload/v1581005812/photos/541418/heroPhoto.png",
+        "imgURL": "",
+        "imgURLElementor": "",
+        "imgID": ""
       },
-      "otherPhotos":[ 
-
+      "otherPhotos": [
+        {
+          "imgURLimport": "http://res.cloudinary.com/vovolio/image/upload/v1581006723/photos/541418/photo8759e6d5-7df1-4228-9255-aa16053368e4.png",
+          "imgURL": "",
+          "imgURLElementor": "",
+          "imgID": ""
+        },
+        {
+          "imgURLimport": "http://res.cloudinary.com/vovolio/image/upload/v1581006783/photos/541418/photo3daf874c-a01e-4b6e-879b-c4af5ec49360.png",
+          "imgURL": "",
+          "imgURLElementor": "",
+          "imgID": ""
+        },
+        {
+          "imgURLimport": "http://res.cloudinary.com/vovolio/image/upload/v1581006798/photos/541418/photo073b9ea9-849d-4ce4-8703-ba0af8b93229.png",
+          "imgURL": "",
+          "imgURLElementor": "",
+          "imgID": ""
+        },
+        {
+          "imgURLimport": "http://res.cloudinary.com/vovolio/image/upload/v1581009965/photos/541418/photo1886700a-5c47-4e65-945b-f57c49ea7250.png",
+          "imgURL": "",
+          "imgURLElementor": "",
+          "imgID": ""
+        },
+        {
+          "imgURLimport": "http://res.cloudinary.com/vovolio/image/upload/v1581009993/photos/541418/photo7db221e6-2a15-46ac-8ae8-0d5047354999.png",
+          "imgURL": "",
+          "imgURLElementor": "",
+          "imgID": ""
+        },
+        {
+          "imgURLimport": "http://res.cloudinary.com/vovolio/image/upload/v1581238893/photos/541418/photo4a289cb8-ee63-457a-82fc-7d1e7a767d85.png",
+          "imgURL": "",
+          "imgURLElementor": "",
+          "imgID": ""
+        }
       ],
-      "backgrounds":[ 
-
+      "backgrounds": [
+        {
+          "imgURLimport": "http://res.cloudinary.com/vovolio/image/upload/v1580308610/photos/541418/backgroundd5d4e91f-4cef-453c-835e-d69ebaf8fa4d.png",
+          "imgURL": "",
+          "imgURLElementor": "",
+          "imgID": ""
+        },
+        {
+          "imgURLimport": "http://res.cloudinary.com/vovolio/image/upload/v1580308612/photos/541418/backgroundc7c2c6c3-3e65-474b-9807-5ee28eaf9509.png",
+          "imgURL": "",
+          "imgURLElementor": "",
+          "imgID": ""
+        },
+        {
+          "imgURLimport": "http://res.cloudinary.com/vovolio/image/upload/v1580308615/photos/541418/background06906ceb-b016-4bbc-bb6f-4188f991af5a.png",
+          "imgURL": "",
+          "imgURLElementor": "",
+          "imgID": ""
+        },
+        {
+          "imgURLimport": "http://res.cloudinary.com/vovolio/image/upload/v1580308617/photos/541418/background3dfc709b-6b6d-49cf-a184-1016b5197c20.png",
+          "imgURL": "",
+          "imgURLElementor": "",
+          "imgID": ""
+        },
+        {
+          "imgURLimport": "http://res.cloudinary.com/vovolio/image/upload/v1580308618/photos/541418/backgroundd4f42c43-5076-467d-8401-2f3441846fa0.png",
+          "imgURL": "",
+          "imgURLElementor": "",
+          "imgID": ""
+        },
+        {
+          "imgURLimport": "http://res.cloudinary.com/vovolio/image/upload/v1580308620/photos/541418/backgroundc1688625-be4e-4a35-8df5-98f9f3a32f14.png",
+          "imgURL": "",
+          "imgURLElementor": "",
+          "imgID": ""
+        }
       ],
-      "socials":{ 
-         "instagram":"sdsfdgfgfgfgfgfgfgfg",
-         "facebook":"sdsdsd"
+      "socials": {
+        "instagram": "sdsfdgfgfgfgfgfgfgfg",
+        "facebook": "sdsdsd"
       },
-      "logo":{ 
-         "imgURLimport":"Brush Script MT",
-         "imgURL":"",
-         "imgURLElementor":"",
-         "imgID":""
+      "logo": {
+        "imgURLimport": "http://res.cloudinary.com/vovolio/image/upload/v1581238773/photos/541418/logoPhoto.png",
+        "imgURL": "",
+        "imgURLElementor": "",
+        "imgID": ""
       },
-      "favicon":{ 
-         "imgURLimport":"/assets/images/subscriptions/FavIcon_Mi_Body.png",
-         "imgURL":"",
-         "imgURLElementor":"",
-         "imgID":""
+      "favicon": {
+        "imgURLimport": "http://res.cloudinary.com/vovolio/image/upload/v1581240769/photos/541418/faviconPhoto.png",
+        "imgURL": "",
+        "imgURLElementor": "",
+        "imgID": ""
       },
-      "tagline":"t1"
-   },
-   "optional":{ 
-      "quotes":[ 
-         "sdsdsd"
+      "tagline": "t1"
+    },
+    "optional": {
+      "quotes": [
+        "sdsdsd"
       ],
-      "videos":[ 
-         { 
-            "title":"sdsdsd",
-            "description":"sdsdsdsdsd",
-            "url":"www.facebook.com/v"
-         }
+      "videos": [
+        {
+          "title": "sdsdsd",
+          "description": "sdsdsdsdsd",
+          "url": "www.facebook.com/v"
+        }
       ],
-      "testimonials":[ 
-
+      "testimonials": [
+        {
+          "picture": {
+            "imgURLimport": "cloudinary",
+            "imgURL": "",
+            "imgURLElementor": "",
+            "imgID": ""
+          },
+          "name": "name1",
+          "text": "text1"
+        }
       ],
-      "cover":{ 
-         "imgURLimport":null,
-         "imgURL":"",
-         "imgURLElementor":"",
-         "imgID":""
+      "cover": {
+        "imgURLimport": "http://res.cloudinary.com/vovolio/image/upload/v1581244009/photos/541418/guid.png",
+        "imgURL": "",
+        "imgURLElementor": "",
+        "imgID": ""
       }
-   }
-}
+    }
+  }
