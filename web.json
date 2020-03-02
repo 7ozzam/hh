@@ -1,0 +1,70 @@
+{ 
+   "mandatory":{ 
+      "siteName":"NetApps ikd",
+      "siteUrl":"netapps-ikd.miportal.io",
+      "hero_header_title":"title",
+      "hero_header_subtitle":"subtitle",
+      "template":{ 
+         "templateName":"Compact",
+         "colourName":"Midnight"
+      },
+      "name":"about name",
+      "aboutYouPhoto":{ 
+         "imgURLimport":"/assets/images/users/541418/aboutYouPhoto.png",
+         "imgURL":"",
+         "imgURLElementor":"",
+         "imgID":""
+      },
+      "aboutYou":"sdsdsdsdsd",
+      "heroPhoto":{ 
+         "imgURLimport":null,
+         "imgURL":"",
+         "imgURLElementor":"",
+         "imgID":""
+      },
+      "otherPhotos":[ 
+
+      ],
+      "backgrounds":[ 
+
+      ],
+      "socials":{ 
+         "instagram":"sdsfdgfgfgfgfgfgfgfg",
+         "facebook":"sdsdsd"
+      },
+      "logo":{ 
+         "imgURLimport":"Brush Script MT",
+         "imgURL":"",
+         "imgURLElementor":"",
+         "imgID":""
+      },
+      "favicon":{ 
+         "imgURLimport":"/assets/images/subscriptions/FavIcon_Mi_Body.png",
+         "imgURL":"",
+         "imgURLElementor":"",
+         "imgID":""
+      },
+      "tagline":"t1"
+   },
+   "optional":{ 
+      "quotes":[ 
+         "sdsdsd"
+      ],
+      "videos":[ 
+         { 
+            "title":"sdsdsd",
+            "description":"sdsdsdsdsd",
+            "url":"www.facebook.com/v"
+         }
+      ],
+      "testimonials":[ 
+
+      ],
+      "cover":{ 
+         "imgURLimport":null,
+         "imgURL":"",
+         "imgURLElementor":"",
+         "imgID":""
+      }
+   }
+}

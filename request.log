@@ -1,0 +1,29 @@
+[26-Jan-2020 14:34:34 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function ereg() in C:\xampp\htdocs\autotemp\index.php:16
+Stack trace:
+#0 C:\xampp\htdocs\autotemp\test.php(2): require()
+#1 {main}
+  thrown in C:\xampp\htdocs\autotemp\index.php on line 16
+[26-Jan-2020 14:34:42 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function ereg() in C:\xampp\htdocs\autotemp\index.php:16
+Stack trace:
+#0 C:\xampp\htdocs\autotemp\test.php(2): require()
+#1 {main}
+  thrown in C:\xampp\htdocs\autotemp\index.php on line 16
+[26-Jan-2020 14:38:02 Europe/Berlin] PHP Notice:  Undefined index: extension in C:\xampp\htdocs\autotemp\index.php on line 58
+[26-Jan-2020 14:39:58 Europe/Berlin] PHP Notice:  Undefined index: extension in C:\xampp\htdocs\autotemp\index.php on line 58
+Array
+(
+    [req] => 
+    [nalogo] => H
+    [namaintitle] => HHHH
+    [nasubtitlepgf] => HHHHH
+    [naherobutton] => HH
+)
+[27-Jan-2020 16:34:49 Europe/Berlin] PHP Notice:  Undefined index: natestimonialimg in C:\xampp\htdocs\autotemp\index.php on line 72
+[27-Jan-2020 16:35:58 Europe/Berlin] PHP Notice:  Undefined index: natestimonialimg in C:\xampp\htdocs\autotemp\index.php on line 74
+[27-Jan-2020 16:35:58 Europe/Berlin] PHP Notice:  Undefined index: extension in C:\xampp\htdocs\autotemp\index.php on line 75
+[27-Jan-2020 16:35:58 Europe/Berlin] PHP Notice:  Undefined index: natestimonialimg in C:\xampp\htdocs\autotemp\index.php on line 79
+[27-Jan-2020 16:35:58 Europe/Berlin] PHP Notice:  Undefined index: natestimonialimg in C:\xampp\htdocs\autotemp\index.php on line 80
+[27-Jan-2020 16:43:19 Europe/Berlin] PHP Notice:  Undefined index: nasection2img in C:\xampp\htdocs\autotemp\index.php on line 74
+[27-Jan-2020 16:43:19 Europe/Berlin] PHP Notice:  Undefined index: extension in C:\xampp\htdocs\autotemp\index.php on line 75
+[27-Jan-2020 16:43:19 Europe/Berlin] PHP Notice:  Undefined index: nasection2img in C:\xampp\htdocs\autotemp\index.php on line 79
+[27-Jan-2020 16:43:19 Europe/Berlin] PHP Notice:  Undefined index: nasection2img in C:\xampp\htdocs\autotemp\index.php on line 80
